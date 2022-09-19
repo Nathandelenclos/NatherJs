@@ -1,0 +1,9 @@
+node_modules
+dist
+certs
+.clasp.json
+.idea
+.vscode
+coverage
+test-report.xml
+.env
